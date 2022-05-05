@@ -3,6 +3,7 @@
  </div>
 
 <div align="justify">  
+  
 # <img src="images/language/Bandera_Espa%C3%B1a.png" width="30px" /> Instalación de diferentes IDE's en Ubuntu
 
 # Introducción
