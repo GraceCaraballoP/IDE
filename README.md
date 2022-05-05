@@ -11,7 +11,7 @@
 Este repositorio está dedicado a describir la instalación de diferentes IDE's. Cuando hablamos de IDE nos referimos a **Entorno de Desarrollo Integrado** es una herramienta de desarrollo de software utilizado como editor y generador de código fuente, también podremos probar y depurar un programa.
 En los siguentes enlaces se detallará la instalación de los respectivos IDE en Ubuntu a través de la terminal
 
-- [Instalación de NetBeans 8.](installation/installation/ES-Netbeans-8.md)    
+- [Instalación de NetBeans 8.](installation/ES-Netbeans-8.md)    
 - [Instalación de NetBeans 12.](installation/ES-Netbeans-12.md)
 - [Instalación de Eclipse.](installation/ES-Eclipse.md)
 - [Instalación de Intelij.](installation/ES-Intelij.md)
